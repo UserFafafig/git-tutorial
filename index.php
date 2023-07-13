@@ -4,4 +4,4 @@
 <?php echo "Computer Engineering"; ?>
 <?php echo "Mahanakorn"; ?>
 
-<?php echo "I Love Tou "; ?>
+<?php echo "I Love Tou"; ?>
