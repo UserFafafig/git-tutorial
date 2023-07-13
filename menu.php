@@ -2,4 +2,4 @@
 <?php echo "BigC"; ?>
 <?php echo "Lotus"; ?>
 <?php echo "Thaiwatsadu"; ?>
-<?php echo "Makro"; ?>
+<?php echo "Maxkro"; ?>
