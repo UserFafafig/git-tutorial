@@ -3,3 +3,5 @@
 <?php echo "Lotus"; ?>
 <?php echo "Thaiwatsadu"; ?>
 <?php echo "Maxkro"; ?>
+<?php echo "Shopee"; ?>
+<?php echo "Lazada"; ?>
